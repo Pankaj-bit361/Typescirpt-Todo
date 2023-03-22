@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "status": "typicode"
+    },
+    {
+      "title": "dsfdsf",
+      "status": false,
+      "id": 2
+    }
+  ]
+}
